@@ -1,1 +1,2 @@
 # 1-Bit-Comparator-Verification-Through-UVM-Based-Testbench-Automation-And-Coverage-
+This project verifies a 1-bit comparator using Universal Verification Methodology (UVM) with an automated testbench. It ensures accurate functionality and improved test coverage. Simulation was done on EDA Playground (Electronic Design Automation Playground). The design uses Verilog HDL and the testbench is written in SystemVerilog HVL.
